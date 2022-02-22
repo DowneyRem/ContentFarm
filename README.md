@@ -10,7 +10,7 @@
  - 出现在谷歌搜索前几页
 
 
-### 声明
+### 项目声明
 - 未对所有网站逐条验证
 - 当前以自用为主
 
@@ -18,7 +18,6 @@
 ### 导入链接
 
 插件下载：[https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe)
-
 
 导入链接：
 `
